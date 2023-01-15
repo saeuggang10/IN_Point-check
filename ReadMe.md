@@ -53,8 +53,11 @@ dir_path = '주소를 입력해주세요'
 -------------------------------
 ### 설명
 ```
-degree가 잘 작동되었는지 확인하기위해 시각화
+degree가 잘 작동되었는지 확인하기위한 시각화
 ```
+
+![image_01](https://user-images.githubusercontent.com/78424269/212538341-07747fc4-41dd-4831-9fd2-ffd03f2b282e.png)
+
 -------------------------------
 -------------------------------
 
@@ -80,4 +83,4 @@ from shapely.geometry.polygon import LinearRing, Polygon
     * 코드 테스팅을 위한 파일
     
 #### 주의사항
-* plot의 shapely패키지가 잘 실행되지 않을 수 있음으로 cmd에서 개별적인 설치가 필요함
+   * plot의 shapely패키지가 잘 실행되지 않을 수 있음으로 cmd에서 개별적인 설치가 필요함
